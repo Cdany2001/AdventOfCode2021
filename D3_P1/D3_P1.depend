@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638545215 source:c:\users\adydani\desktop\adventofcode\d3_p1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638397673 source:c:\users\adydani\desktop\adventofcode\d1_p2\main.cpp
+	<iostream>
+	<fstream>
+
